@@ -25,6 +25,8 @@ pip install -r requirements.txt
 3. Konfigurasi
 Buat file .env dengan format:
 
+nano .env
+
 RPC_URL=https://zenchain-testnet.api.onfinality.io/public  
 ACCOUNT_ADDRESS=0xYourAccountAddress  
 PRIVATE_KEY=YourPrivateKey
@@ -46,16 +48,6 @@ Buat token DEZ dan kirim ke alamat acak.
 
 Burn 10 token DEZ.
 
-Ulangi setiap 10 detik.
-
-
-Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
-
-Kontak
-
-Laporkan masalah atau pertanyaan di Issues.
-
+Ulangi setiap 10 detik
 
 
