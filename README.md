@@ -1,4 +1,4 @@
-kontol kecil jika tidak dibaca
+kontolmu kecil jika tidak dibaca
 
 Zenmemex
 
