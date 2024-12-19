@@ -32,7 +32,7 @@ PRIVATE_KEY=YourPrivateKey
 
 4. Jalankan Skrip
 
-python main.py
+python app.py
 
 
 
