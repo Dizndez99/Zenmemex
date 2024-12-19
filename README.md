@@ -1,4 +1,4 @@
-Berikut adalah README versi lebih simpel:
+kontol dibaca cok
 
 # Zenmemex  
 
