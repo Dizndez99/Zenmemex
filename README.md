@@ -41,7 +41,8 @@ PRIVATE_KEY=YourPrivateKey
 
 4. Jalankan skrip:
 
-python app.py
+python3 app.py  atau
+pyhton3 main.py
 
 
 
